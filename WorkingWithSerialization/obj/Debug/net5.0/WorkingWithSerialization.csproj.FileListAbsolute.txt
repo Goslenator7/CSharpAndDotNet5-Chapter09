@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\WorkingWithSerialization.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\WorkingWithSerialization.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\WorkingWithSerialization.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\WorkingWithSerialization.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\ref\WorkingWithSerialization.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\bin\Debug\net5.0\WorkingWithSerialization.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\ref\WorkingWithSerialization.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithSerialization\obj\Debug\net5.0\WorkingWithSerialization.genruntimeconfig.cache
