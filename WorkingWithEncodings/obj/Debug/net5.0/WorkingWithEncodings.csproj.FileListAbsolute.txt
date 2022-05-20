@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\ref\WorkingWithEncodings.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\ref\WorkingWithEncodings.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.genruntimeconfig.cache
