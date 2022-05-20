@@ -6,13 +6,17 @@ using Packt.Shared;
 using static System.Console;
 using static System.Environment;
 using static System.IO.Path;
+using System.Threading.Tasks;
+// import new json class as alias to avoid conflicts with other json.NET names
+using NuJson = System.Text.Json.JsonSerializer;
 
 namespace WorkingWithSerialization
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
+
             //create an object graph
             var people = new List<Person>
             {
@@ -68,6 +72,40 @@ namespace WorkingWithSerialization
                 foreach (var item in loadedPeople)
                 {
                     WriteLine($"{item.FirstName} {item.LastName} has {item.Children.Count} children.");
+                }
+            }
+
+            WriteLine("Using JSON");
+            WriteLine();
+            //create a file to write to
+            string jsonPath = Combine(CurrentDirectory, "people.json");
+
+            using (StreamWriter jsonStream = File.CreateText(jsonPath))
+            {
+                //create an object that will format as JSON
+                var jss = new Newtonsoft.Json.JsonSerializer();
+
+                //serialize the object graph into a string
+                jss.Serialize(jsonStream, people);
+            }
+            WriteLine();
+            WriteLine($"Written {new FileInfo(jsonPath).Length:N0} bytes of JSON to: {jsonPath}");
+
+            //Display the serialized object graph
+            WriteLine(File.ReadAllText(jsonPath));
+
+            using (FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
+            {
+                //deserialize object graph into a list of Person
+                var loadedPeople = (List<Person>)
+
+                    await NuJson.DeserializeAsync(
+                        utf8Json: jsonLoad,
+                        returnType: typeof(List<Person>));
+
+                foreach(var item in loadedPeople)
+                {
+                    WriteLine($"{item.LastName} has {item.Children?.Count ?? 0} children.");
                 }
             }
         }
